@@ -1,0 +1,72 @@
+img {
+  max-width: 100%;
+}
+.head {
+  background-color: rgb(14, 14, 74);
+  color: white;
+  text-align: center;
+  padding: 5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.banner img {
+  width: 1500px;
+  margin-bottom: 84px;
+}
+.style {
+  display: flex;
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.puppy2 {
+  background-color: rgb(199, 54, 54);
+  padding: 0px 50px 0px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 60px;
+  text-align: center;
+  border: 5px solid black;
+}
+.puppy1,
+.puppy2,
+.puppy3 {
+  width: 33%;
+}
+.puppy1 img,
+.puppy2 img,
+.puppy3 img {
+  width: 100%;
+}
+.more {
+  text-align: center;
+  font-size: 44px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.script {
+  display: flex;
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.puppy4 {
+  margin-right: 30px;
+}
+.puppy5 {
+  margin-left: 30px;
+}
+.puppy4,
+.puppy5 {
+  width: 50%;
+}
+.puppy4 img,
+.puppy5 img {
+  width: 100%;
+}
+#page {
+  margin-top: 75px;
+  padding-top: 75px;
+  padding-bottom: 100px;
+}
